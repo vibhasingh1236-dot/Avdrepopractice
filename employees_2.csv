@@ -1,0 +1,19 @@
+employee_id,name,gender,age,city,department,job_title,salary,joining_date,email,status,manager_id
+101,Amit Sharma,M,32,Pune,IT,Data Engineer,85000,15-01-2021,amit@company.com,Active,201
+102,Neha Singh,F,28,Mumbai,Sales,Sales Executive,55000,20-03-2022,neha@company.com,Active,202
+103,Ravi Kumar,M,35,Bangalore,IT,Senior Data Engineer,110000,10-07-2019,ravi@company.com,Active,201
+104,Sneha Patel,F,29,Mumbai,HR,HR Executive,60000,05-11-2020,sneha@company.com,Active,203
+105,Karan Mehta,M,41,Pune,Finance,Financial Analyst,95000,18-06-2018,karan@company.com,Active,204
+106,Meera Das,F,31,Delhi,IT,Data Analyst,75000,25-09-2021,meera@company.com,Active,201
+107,Arjun Rao,M,38,Bangalore,HR,HR Manager,120000,12-04-2017,arjun@company.com,Active,
+108,Priya Nair,F,27,Delhi,Sales,Sales Executive,50000,01-02-2023,priya@company.com,Active,202
+109,Rahul Verma,M,45,Pune,IT,Architect,150000,19-08-2015,rahul@company.com,Active,201
+110,Ananya Roy,F,33,Kolkata,Finance,Senior Analyst,105000,10-01-2020,ananya@company.com,Active,204
+111,Vikram Singh,M,30,Mumbai,IT,Developer,70000,15-07-2022,vikram@company.com,Active,201
+112,Pooja Sharma,F,26,Pune,Sales,Sales Executive,48000,10-06-2023,pooja@company.com,Active,202
+113,Rohit Das,M,36,Bangalore,IT,Developer,80000,20-05-2020,rohit@company.com,Inactive,201
+114,Kavita Rao,F,39,Delhi,HR,HR Manager,115000,15-03-2016,kavita@company.com,Active,203
+115,Suresh Kumar,M,43,Kolkata,Finance,Finance Manager,130000,01-09-2014,suresh@company.com,Active,204
+117,Ramesh Kumar,M,34,,IT,Developer,72000,10-05-2023,ramesh@company.com,Active,201
+103,Ravi Kumar,M,35,Bangalore,IT,Senior Data Engineer,110000,10-07-2019,ravi@company.com,Active,201
+118,Sunita Das,F,31,Delhi,it,Data Analyst,68000,15-09-2022,sunita@company.com,Active,201
